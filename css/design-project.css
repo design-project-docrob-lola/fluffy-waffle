@@ -1,0 +1,86 @@
+body {
+    background-color: #e6e6e6;
+}
+
+#my-logo {
+    width: 105px;
+    height: 105px;
+}
+
+.brand-font {
+    font-family: Abel, sans-serif;
+    font-size: 30px;
+}
+
+.menu-font {
+    font-family: Abel, sans-serif;
+    font-size: 16px;
+    padding-top: 10px;
+}
+
+#app-heading {
+    font-family: Anton, sans-serif;
+    font-size: 72px;
+}
+
+#app-sub-heading {
+    font-family: Anton, sans-serif;
+    font-size: 48px;
+    margin-top: 36px;
+}
+
+.my-circle {
+    margin: 15px 20px;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    border: 5px solid white;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Anton, sans-serif;
+}
+
+.design-circle {
+    background-color: #e6563b;
+    color: white;
+}
+
+.develop-circle {
+    background-color: #eb9d3a;
+    color: white;
+}
+
+.support-circle {
+    background-color: #7cb06c;
+    color: white;
+}
+
+.host-circle {
+    background-color: #00aba9;
+    color: white;
+}
+
+.circle-flex {
+    /*display: flex;*/
+    /*justify-content: center;*/
+}
+
+.small-text {
+    font-family: Abel, sans-serif;
+    vertical-align: center;
+}
+
+.tiny-circle {
+    margin-left: 16px;
+    width: 18px;
+    height: 18px;
+    border-radius: 100%;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Anton, sans-serif;
+    font-size: 10px;
+}
